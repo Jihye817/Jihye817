@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=stella817)](https://solved.ac/stella817) -->
 
-### 🐾My GitAnimals Farm
+### 🐾 My GitAnimals Farm
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/Jihye817"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/Jihye817?pet-id=646973679508642041"
+    width="600"
+    height="120"
+  />
 </a>

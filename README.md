@@ -21,3 +21,12 @@ Here are some ideas to get you started:
 [![Jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihye817&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=stella817)](https://solved.ac/stella817) -->
+
+### 🐾My GitAnimals Farm
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Jihye817"
+  width="600"
+  height="300"
+/>
+</a>

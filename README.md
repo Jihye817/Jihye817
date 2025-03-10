@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there, I'm Jihye 👋
 ```
-FrontEnd developer
+💻 FrontEnd developer
 ```
 ### 🛠️ Tech Stack
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_BOOT-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
